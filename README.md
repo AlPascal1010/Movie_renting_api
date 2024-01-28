@@ -1,0 +1,1 @@
+This is an API that allows us to rent movies.
